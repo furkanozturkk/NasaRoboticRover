@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqTLlYNR5oJPyc3k0EtSbLTVPOQPONI8zTifbqxdf2q/9nnp52BxOxpZRtK79hqS+AsnI202R24NBTzOQal3Vg==",
+  "success": true,
+  "projectFilePath": "/Users/furkanozturk/Desktop/NasaRoboticRover/NasaRoboticRover.csproj",
+  "expectedPackageFiles": [
+    "/Users/furkanozturk/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.7/microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "/Users/furkanozturk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.7/microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

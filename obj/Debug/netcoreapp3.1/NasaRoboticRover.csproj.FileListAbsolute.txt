@@ -1,0 +1,15 @@
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.csprojAssemblyReference.cache
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.AssemblyInfoInputs.cache
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.AssemblyInfo.cs
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.csproj.CoreCompileInputs.cache
+/Users/furkanozturk/Desktop/NasaRoboticRover/bin/Debug/netcoreapp3.1/NasaRoboticRover.deps.json
+/Users/furkanozturk/Desktop/NasaRoboticRover/bin/Debug/netcoreapp3.1/NasaRoboticRover.runtimeconfig.json
+/Users/furkanozturk/Desktop/NasaRoboticRover/bin/Debug/netcoreapp3.1/NasaRoboticRover.runtimeconfig.dev.json
+/Users/furkanozturk/Desktop/NasaRoboticRover/bin/Debug/netcoreapp3.1/NasaRoboticRover.dll
+/Users/furkanozturk/Desktop/NasaRoboticRover/bin/Debug/netcoreapp3.1/NasaRoboticRover.pdb
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.dll
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.pdb
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.genruntimeconfig.cache
+/Users/furkanozturk/Desktop/NasaRoboticRover/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/furkanozturk/Desktop/NasaRoboticRover/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/furkanozturk/Desktop/NasaRoboticRover/obj/Debug/netcoreapp3.1/NasaRoboticRover.csproj.CopyComplete
