@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EqTLlYNR5oJPyc3k0EtSbLTVPOQPONI8zTifbqxdf2q/9nnp52BxOxpZRtK79hqS+AsnI202R24NBTzOQal3Vg==",
+  "dgSpecHash": "2ywaxjqVHqlxQWH4YBiD2OfjKt4WFsw4FoM83WYtE+2F90f1ONfVa0uGyIV1548Y19xlr4t8ioqqCEs+ciu6BQ==",
   "success": true,
-  "projectFilePath": "/Users/furkanozturk/Desktop/NasaRoboticRover/NasaRoboticRover.csproj",
+  "projectFilePath": "/Users/furkanozturk/Documents/GitHub/NasaRoboticRover/NasaRoboticRover.csproj",
   "expectedPackageFiles": [
     "/Users/furkanozturk/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.7/microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
-    "/Users/furkanozturk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.7/microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+    "/Users/furkanozturk/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.7/microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "/Users/furkanozturk/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

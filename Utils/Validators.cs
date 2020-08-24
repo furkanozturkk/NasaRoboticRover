@@ -49,11 +49,11 @@ namespace NasaRoboticRover
             });
             return isValid;
         }
-        public static bool MapOverflowValidator(Map map,IVehicle vehicle)
+        public static bool MapOverflowValidator(Map map, IVehicle vehicle)
         {
-            var condition = !(vehicle.Location.X > map.Width || vehicle.Location.Y>map.Height);
+            var condition = !(vehicle.Location.X > map.Width || vehicle.Location.Y > map.Height || vehicle.Location.X < 0 || vehicle.Location.Y < 0);
 
-            return  condition;
+            return condition;
         }
     }
 

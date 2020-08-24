@@ -115,7 +115,8 @@ namespace NasaRoboticRover
         public void RunAction(IVehicle vehicle, string actionString)
         {
             var actions = actionString.ToCharArray().ToList();
-            var temp = vehicle;
+            var temp =vehicle;
+
             actions.ForEach(action =>
             {
                 switch (action.ToString().ToUpper())

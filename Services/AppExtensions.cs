@@ -1,4 +1,5 @@
 using Microsoft.Extensions.DependencyInjection;
+using Newtonsoft.Json;
 
 namespace NasaRoboticRover
 {
@@ -10,4 +11,5 @@ namespace NasaRoboticRover
             return serviceCollection;
         }
     }
+
 }
